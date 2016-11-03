@@ -1,0 +1,14 @@
+/* Escribe aqui tu CSS */
+#top {
+    border: solid 4px gold; 
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+}
+#down {
+    border: solid 4px gold;
+    width: 200px;
+    text-align: left;
+    padding: 20px;
+    margin-left: 400px;
+}
